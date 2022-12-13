@@ -18,7 +18,7 @@ let items = [
     { name: 'iPhone', weight: 15, value: 1 },
     { name: 'stopwatch', weight: 2, value: 10 },
     { name: 'dress', weight: 4, value: 6 },
-    { name: 'coat', weight: 7, value: 8 },
+    { name: 'coat', weight: 8, value: 8 },
     { name: 'handkerchief', weight: 2, value: 1 },
     { name: 'USB-key', weight: 3, value: 6 },
     { name: 'smartphone', weight: 2, value: 3 },
